@@ -1,1 +1,1 @@
-# Robots on a Table: Moderate Facilitation for Engaging Group Communication
+# Multi-Robot Turn-Taking: Moderately Guiding Free and Fair Discussion
