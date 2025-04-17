@@ -1,4 +1,6 @@
 # Multi-Robot Turn-Taking: Moderately Guiding Free and Fair Discussion
 
-https://github.com/user-attachments/assets/bc4f38d4-82c0-4b77-8cb9-ccef3b48d597
+https://github.com/user-attachments/assets/d63d9341-d8c5-4c2a-8ecb-f083d8914968
+
+
 
