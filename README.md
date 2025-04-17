@@ -1,6 +1,7 @@
 # Multi-Robot-Assisted Turn-Taking through Approaching Movements
 
-https://github.com/user-attachments/assets/d63d9341-d8c5-4c2a-8ecb-f083d8914968
+https://github.com/user-attachments/assets/58127335-43e8-4c47-8a7a-44b32395ef81
+
 
 
 
