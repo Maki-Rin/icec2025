@@ -1,6 +1,8 @@
-# Multi-Robot-Assisted Turn-Taking through Approaching Movements
+# Multiple Robots Enable *Moderate Facilitation* Through Coordinated Approaching Movements in Group Discussions
 
-https://github.com/user-attachments/assets/58127335-43e8-4c47-8a7a-44b32395ef81
+https://github.com/user-attachments/assets/1d3a9629-e58f-4f15-924e-c22a8fa3eb7c
+
+
 
 
 
